@@ -1,5 +1,3 @@
-# Waze_user_churn_project
-Project done through Google's Advance Data Analytics to build machine learning models to predict user churn. 
 # Waze User Churn Project
 
 ## Overview
