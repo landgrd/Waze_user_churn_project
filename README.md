@@ -30,4 +30,5 @@ This model has scores of 43% precision, 16% recall, .23 F1, and 81% accuracy. Th
 ![image](https://github.com/landgrd/Waze_user_churn_project/assets/94145969/59bc18b0-c78a-4d4a-a5e1-83d6d07f6134)
 
 Conclusion
+
 As these models do not have the power to predict if a user will churn, they gave insight into what type of user will be most likely to churn. Having more information on the users concerning how they use the app could make these models perform better and find more relationships. 
